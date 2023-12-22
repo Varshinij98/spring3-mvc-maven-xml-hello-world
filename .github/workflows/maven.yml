@@ -1,4 +1,4 @@
-name: web deployment
+name: tomcat deployment
 
 on: [push]
 
